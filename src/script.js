@@ -30,6 +30,8 @@ matcapTexture.colorSpace = THREE.SRGBColorSpace
 
 const textGeometry = new TextGeometry()
 
+
+
 /**
  * Fonts
  */
